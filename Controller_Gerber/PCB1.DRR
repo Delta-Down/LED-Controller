@@ -1,0 +1,25 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PCB1.CMPcbDoc   12/14/2025  9:13:44 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : PCB1-RoundHoles-Plated.TXT
+ASCII Non-Plated RoundHoles File : PCB1-RoundHoles-NonPlated.TXT
+ASCII Plated SlotHoles File : PCB1-SlotHoles-Plated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      16mil (0.399mm)                                           Round             19        PTH        5.63inch (142.88mm)
+T2      22mil (0.551mm)                                           Round             2         PTH        0.58inch (14.85mm)
+T3      24mil (0.599mm)                                           Round             2         PTH        0.31inch (7.78mm)
+T4      24mil (0.599mm)                                           Slot              4         PTH        1.71inch (43.35mm)
+T5      28mil (0.711mm)                                           Round             5         PTH        3.49inch (88.52mm)
+T6      30mil (0.762mm)                                           Round             3         PTH        0.20inch (5.00mm)
+T7      32mil (0.8mm)                                             Slot              3         PTH        1.20inch (30.44mm)
+T8      39mil (1.001mm)                                           Round             8         PTH        1.59inch (40.50mm)
+T9      79mil (1.999mm)                                           Round             11        PTH        7.90inch (200.57mm)
+T10     35mil (0.899mm)                                           Round             2         NPTH       0.12inch (3.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              59
+
+Total Processing Time (hh:mm:ss) : 00:00:00
